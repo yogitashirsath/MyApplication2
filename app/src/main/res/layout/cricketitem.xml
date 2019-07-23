@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+       />
+    <TextView
+        android:id="@+id/textViewtem1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+
+        />
+    <TextView
+        android:id="@+id/textViewtem2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+
+        />
+    <TextView
+        android:id="@+id/textViewtype"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        />
+    <TextView
+        android:id="@+id/textViewsquad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+
+        />
+    <TextView
+        android:id="@+id/textViewwinner_team"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+
+        />
+    <TextView
+        android:id="@+id/textViewmatchStarted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+
+        />
+    <TextView
+        android:id="@+id/textViewtoss_winner_team"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+
+        />
+    </LinearLayout>
